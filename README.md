@@ -73,18 +73,17 @@ During the course of this project we face:
 
 1) Open the terminal
 2) Go to the folder where the Makefile is located
-
-![Images](./img/Screenshot%202024-08-28%20090211.png)
+    >* make
  
 3) ## Creates a new main.c file
 # Example : here I want to use a function from the ft_strjoin library which takes 2 strings as input and returns a string
-![images](./img/Screenshot%202024-08-28%20093056.png)
+![images](./img/function.png)
 
 # main.c
-![images](./img/Screenshot%202024-08-28%20092558.png)
+![images](./img/main.png)
 
 4) ## commands for out put 
 
 # Output
 
-![images](./img/Screenshot%202024-08-28%20093342.png)
+![images](./img/output.png)
