@@ -43,10 +43,10 @@ bonus:
 	ar -rsv libft.a ${OBJ_BONUS}
 
 clean:
-	/bin/rm -f *.o
+	rm -f *.o
 
 fclean: clean
-	/bin/rm -f ${NAME}
+	rm -f ${NAME}
 
 re: fclean all
 
